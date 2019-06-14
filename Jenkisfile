@@ -1,0 +1,8 @@
+node(){
+    stage('one'){
+        echo "hello"
+    }
+     stage('two'){
+        echo "hello"
+    }
+}
